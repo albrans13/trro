@@ -27,6 +27,11 @@
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
       "value": ""
+      
+    "OWNER_ID": {
+      "description": "حـط ايــديك هنـا",
+      "required": true,
+      "value": ""
     },
     "MONGO_DB_URI": {
       "description": "Get حط source refz) value from cloud.mongodb.com",
