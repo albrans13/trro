@@ -1,6 +1,6 @@
 {
   "name": "sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
-  "description": "مصنع بوتات استخراج ترمكس مقدم من سورس ريفز 😈",
+  "description": "مصنع بوتات استخراج ترمكس مقدم من سورس refz 🤑",
   "logo": "https://telegra.ph/file/48df5f83ed63cd0cb0274.jpg",
   "keywords": [
     "telegram",
@@ -11,30 +11,30 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/sourcesemsem/bot20",
+  "repository": "https://github.com/albrans13/bot2",
   "env": {
     "ENVIRONMENT": {
-      "description": "Don't change ANYTHING.",
+      "description": "لا تلمس ده ابدا",
       "required": true,
       "value": "ANYTHING"
     },
     "API_ID": {
-      "description": "Get this value from my.telegram.org/apps.",
+      "description": "حـط هنا الايـبي ايــدي الـخاص بـك",
       "required": true,
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from my.telegram.org/apps.",
+      "description": "حـط هنا الايـبي هـاش الـخاص بـك",
       "required": true,
       "value": ""
-      
+    },
     "OWNER_ID": {
       "description": "حـط ايــديك هنـا",
       "required": true,
       "value": ""
     },
     "MONGO_DB_URI": {
-      "description": "Get حط source refz) value from cloud.mongodb.com",
+      "description": "حــط هنـا يـوزر قــناتـك بـدون @) value from cloud.mongodb.com",
       "required": true,
       "value": ""
     },
@@ -44,7 +44,7 @@
       "value": "DevilsHeavenMF"
     },
     "BOT_TOKEN": {
-      "description": "Get this value from @BotFather",
+      "description": "حــط هــنا توكــن بوـتك الان",
       "required": true,
       "value": ""
     }
